@@ -1,0 +1,5 @@
+{
+  "name": "AutoEscuela AI",
+  "description": "Tu profesor de autoescuela inteligente. Prepara el examen teórico del permiso B con preguntas generadas por IA adaptadas a tu nivel, desde básico hasta situaciones complejas de tráfico.",
+  "requestFramePermissions": []
+}
